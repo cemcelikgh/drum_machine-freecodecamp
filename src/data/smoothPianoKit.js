@@ -1,48 +1,48 @@
 const smoothPianoKit = [
   {
-    'key': 'Q',
+    "key": "Q",
     "name": "Chord-1",
-    "audio": "https://s3.amazonaws.com/freecodecamp/drums/Chord_1.mp3"
+    "audio": "/assets/sounds/smooth-piano-kit/Chord_1.mp3"
   },
   {
-    'key': 'W',
+    "key": "W",
     "name": "Chord-2",
-    "audio": "https://s3.amazonaws.com/freecodecamp/drums/Chord_2.mp3"
+    "audio": "/assets/sounds/smooth-piano-kit/Chord_2.mp3"
   },
   {
-    'key': 'E',
+    "key": "E",
     "name": "Chord-3",
-    "audio": "https://s3.amazonaws.com/freecodecamp/drums/Chord_3.mp3"
+    "audio": "/assets/sounds/smooth-piano-kit/Chord_3.mp3"
   },
   {
-    'key': 'A',
+    "key": "A",
     "name": "Shaker",
-    "audio": "https://s3.amazonaws.com/freecodecamp/drums/Give_us_a_light.mp3"
+    "audio": "/assets/sounds/smooth-piano-kit/Give_us_a_light.mp3"
   },
   {
-    'key': 'S',
+    "key": "S",
     "name": "Open_HH",
-    "audio": "https://s3.amazonaws.com/freecodecamp/drums/Dry_Ohh.mp3"
+    "audio": "/assets/sounds/smooth-piano-kit/Dry_Ohh.mp3"
   },
   {
-    'key': 'D',
+    "key": "D",
     "name": "Closed_HH",
-    "audio": "https://s3.amazonaws.com/freecodecamp/drums/Bld_H1.mp3"
+    "audio": "/assets/sounds/smooth-piano-kit/Bld_H1.mp3"
   },
   {
-    'key': 'Z',
+    "key": "Z",
     "name": "Punchy-Kick",
-    "audio": "https://s3.amazonaws.com/freecodecamp/drums/punchy_kick_1.mp3"
+    "audio": "/assets/sounds/smooth-piano-kit/punchy_kick_1.mp3"
   },
   {
-    'key': 'X',
+    "key": "X",
     "name": "Side-Stick",
-    "audio": "https://s3.amazonaws.com/freecodecamp/drums/side_stick_1.mp3"
+    "audio": "/assets/sounds/smooth-piano-kit/side_stick_1.mp3"
   },
   {
-    'key': 'C',
+    "key": "C",
     "name": "Snare",
-    "audio": "https://s3.amazonaws.com/freecodecamp/drums/Brk_Snr.mp3"
+    "audio": "/assets/sounds/smooth-piano-kit/Brk_Snr.mp3"
   }
 ];
 

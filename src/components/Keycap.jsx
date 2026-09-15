@@ -30,12 +30,13 @@ function Keycap({power, sound, setSoundName}) {
       onClick={() => {playSound(sound)}}
       disabled={!power}
     >
-      <audio id={sound.key}
+      {sound.key}
+      <audio
+        id={sound.key}
         className="clip"
         src={sound.audio}
         preload="auto"
-      ></audio>
-      {sound.key}
+      />
     </button>
   );
 };

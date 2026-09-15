@@ -23,7 +23,3 @@ Range input
 freeCodeCamp Glyph icon
 <br>Aug 2024
 <br><https://design-style-guide.freecodecamp.org/>
-
-gh-pages
-<br>Aug 2024
-<br><https://github.com/gitname/react-gh-pages>

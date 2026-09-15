@@ -1,48 +1,48 @@
 const heaterKit = [
   {
-    'key': 'Q',
+    "key": "Q",
     "name": "Heater-1",
-    "audio": "https://s3.amazonaws.com/freecodecamp/drums/Heater-1.mp3"
+    "audio": "/assets/sounds/heater-kit/Heater-1.mp3"
   },
   {
-    'key': 'W',
+    "key": "W",
     "name": "Heater-2",
-    "audio": "https://s3.amazonaws.com/freecodecamp/drums/Heater-2.mp3"
+    "audio": "/assets/sounds/heater-kit/Heater-2.mp3"
   },
   {
-    'key': 'E',
+    "key": "E",
     "name": "Heater-3",
-    "audio": "https://s3.amazonaws.com/freecodecamp/drums/Heater-3.mp3"
+    "audio": "/assets/sounds/heater-kit/Heater-3.mp3"
   },
   {
-    'key': 'A',
+    "key": "A",
     "name": "Heater-4",
-    "audio": "https://s3.amazonaws.com/freecodecamp/drums/Heater-4_1.mp3"
+    "audio": "/assets/sounds/heater-kit/Heater-4_1.mp3"
   },
   {
-    'key': 'S',
+    "key": "S",
     "name": "Clap",
-    "audio": "https://s3.amazonaws.com/freecodecamp/drums/Dry_Ohh.mp3"
+    "audio": "/assets/sounds/heater-kit/Dry_Ohh.mp3"
   },
   {
-    'key': 'D',
+    "key": "D",
     "name": "Open-HH",
-    "audio": "https://s3.amazonaws.com/freecodecamp/drums/Bld_H1.mp3"
+    "audio": "/assets/sounds/heater-kit/Bld_H1.mp3"
   },
   {
-    'key': 'Z',
+    "key": "Z",
     "name": "Kick-n'-Hat",
-    "audio": "https://s3.amazonaws.com/freecodecamp/drums/punchy_kick_1.mp3"
+    "audio": "/assets/sounds/heater-kit/punchy_kick_1.mp3"
   },
   {
-    'key': 'X',
+    "key": "X",
     "name": "Kick",
-    "audio": "https://s3.amazonaws.com/freecodecamp/drums/side_stick_1.mp3"
+    "audio": "/assets/sounds/heater-kit/side_stick_1.mp3"
   },
   {
-    'key': 'C',
+    "key": "C",
     "name": "Closed-HH",
-    "audio": "https://s3.amazonaws.com/freecodecamp/drums/Brk_Snr.mp3"
+    "audio": "/assets/sounds/heater-kit/Brk_Snr.mp3"
   }
 ];
 
